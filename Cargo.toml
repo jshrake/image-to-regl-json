@@ -1,0 +1,11 @@
+[package]
+name = "image-to-regl-texture-format"
+version = "0.1.0"
+authors = ["Justin Shrake <justinshrake@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+image = "*"
+serde = "1.0"
+serde_derive = "1.0"
+serde_json = "1.0"
