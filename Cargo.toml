@@ -1,5 +1,5 @@
 [package]
-name = "image-to-regl-texture-format"
+name = "image-to-regl-json"
 version = "0.1.0"
 authors = ["Justin Shrake <justinshrake@gmail.com>"]
 edition = "2018"

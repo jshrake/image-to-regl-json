@@ -1,4 +1,4 @@
-# image-to-regl-texture-format
+# image-to-regl-json
 
 A utility to transform an image file into it's raw representation and output it as JSON for use with [regl](https://github.com/regl-project/regl). I built this to work around frustrations related to [https://github.com/regl-project/regl/issues/435](https://github.com/regl-project/regl/issues/435), and because it simply matches my workflow better. One downside is that the resulting JSON file can be fairly large, so consider compression.
 
